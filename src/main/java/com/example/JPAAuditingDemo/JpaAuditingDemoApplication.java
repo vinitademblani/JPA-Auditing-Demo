@@ -8,6 +8,7 @@ public class JpaAuditingDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JpaAuditingDemoApplication.class, args);
+		System.out.println("This is for testing of tags");
 	}
 
 }
